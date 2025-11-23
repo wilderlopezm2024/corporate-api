@@ -1,0 +1,119 @@
+{
+  "solicitar_vacaciones": {
+    "name": "Solicitud de Vacaciones",
+    "description": "Proceso para solicitar días de vacaciones a través del sistema de RRHH",
+    "estimated_time": "3-5 días hábiles para aprobación",
+    "requirements": "Mínimo 15 días de anticipación, días acumulados disponibles",
+    "steps": [
+      "**Paso 1:** Acceder al portal de RRHH en https://portal.empresa.com con tus credenciales corporativas",
+      "**Paso 2:** Ir a la sección 'Mis Solicitudes' en el menú principal",
+      "**Paso 3:** Hacer clic en 'Nueva Solicitud' → Seleccionar 'Vacaciones'",
+      "**Paso 4:** Ingresar fecha de inicio y fecha de fin (solo días hábiles se cuentan)",
+      "**Paso 5:** Verificar saldo disponible de días en el panel lateral",
+      "**Paso 6:** Si son más de 10 días consecutivos, adjuntar justificación en el campo 'Observaciones'",
+      "**Paso 7:** Revisar el resumen de la solicitud y hacer clic en 'Enviar'",
+      "**Paso 8:** Automáticamente se enviará email a tu supervisor para aprobación",
+      "**Paso 9:** Esperar aprobación (recibirás notificación por email y SMS)",
+      "**Paso 10:** Una vez aprobado, el sistema actualizará tu calendario y el de tu equipo"
+    ],
+    "important_notes": [
+      "La solicitud no garantiza aprobación automática",
+      "El supervisor puede rechazar si hay conflictos con proyectos críticos",
+      "Puedes cancelar la solicitud antes de que sea aprobada",
+      "En caso de emergencia, contactar directamente a RRHH: rrhh@empresa.com"
+    ]
+  },
+  "reembolso_gastos": {
+    "name": "Reembolso de Gastos",
+    "description": "Proceso para solicitar reembolso de gastos laborales incurridos",
+    "estimated_time": "10-15 días hábiles para pago",
+    "requirements": "Recibos originales, gastos con máximo 30 días de antigüedad",
+    "steps": [
+      "**Paso 1:** Guardar TODOS los recibos originales o facturas electrónicas de los gastos",
+      "**Paso 2:** Descargar el formulario Form-REE-001 desde portal.empresa.com/formularios",
+      "**Paso 3:** Completar el formulario con información detallada: fecha, monto, concepto, proyecto asociado",
+      "**Paso 4:** Tomar fotografías claras de los recibos (en caso de recibos físicos) o guardar PDFs",
+      "**Paso 5:** Adjuntar los archivos al formulario digital en portal.empresa.com/reembolsos",
+      "**Paso 6:** Indicar el proyecto, centro de costo o cliente al que corresponde el gasto",
+      "**Paso 7:** Si el gasto es mayor a $500 USD, adjuntar email de autorización previa del supervisor",
+      "**Paso 8:** Enviar la solicitud completa (recibirás un número de ticket de confirmación)",
+      "**Paso 9:** El departamento de Finanzas validará la información en 5-7 días hábiles",
+      "**Paso 10:** Si es aprobado, el pago se realizará en la siguiente quincena vía transferencia bancaria",
+      "**Paso 11:** Recibirás comprobante de transferencia por email"
+    ],
+    "important_notes": [
+      "Gastos mayores a $500 USD requieren aprobación previa",
+      "Recibos ilegibles o incompletos serán rechazados",
+      "Los gastos deben estar relacionados con actividades laborales",
+      "Consultar política de reembolsos para montos máximos permitidos"
+    ]
+  },
+  "solicitar_equipo": {
+    "name": "Solicitud de Equipos de Tecnología",
+    "description": "Proceso para solicitar equipos tecnológicos (laptop, monitor, teclado, etc.)",
+    "estimated_time": "2-10 días según disponibilidad en inventario",
+    "requirements": "Justificación de necesidad, aprobación de supervisor para equipos nuevos",
+    "steps": [
+      "**Paso 1:** Enviar email a ti-support@empresa.com con asunto 'Solicitud de Equipo'",
+      "**Paso 2:** En el email especificar: tipo de equipo (laptop, monitor, teclado, mouse, etc.) y especificaciones necesarias",
+      "**Paso 3:** Justificar la necesidad del equipo (nuevo empleado, equipo dañado, upgrade necesario, etc.)",
+      "**Paso 4:** El equipo de TI verificará disponibilidad en el inventario corporativo",
+      "**Paso 5:** Si hay stock disponible: Se agendará entrega en 2-3 días hábiles",
+      "**Paso 6:** Si NO hay stock y requiere compra: Se solicitará aprobación de tu jefe directo",
+      "**Paso 7:** Una vez aprobado por gerencia, el proceso de compra toma 7-10 días hábiles",
+      "**Paso 8:** Cuando el equipo esté listo, TI te contactará para agendar configuración",
+      "**Paso 9:** Firmar el acta de responsabilidad del equipo (documento digital)",
+      "**Paso 10:** Personal de TI realizará la configuración inicial y entrega del equipo",
+      "**Paso 11:** Confirmar recepción en el sistema de inventario"
+    ],
+    "important_notes": [
+      "Los equipos son propiedad de la empresa y deben devolverse al terminar contrato",
+      "Reportar cualquier daño o mal funcionamiento inmediatamente a TI",
+      "No está permitido instalar software no autorizado",
+      "Para equipos de alto costo (>$1500 USD) se requiere aprobación de dirección"
+    ]
+  },
+  "cambio_datos_personales": {
+    "name": "Actualización de Datos Personales",
+    "description": "Proceso para actualizar información personal en el sistema de RRHH",
+    "estimated_time": "2-3 días hábiles para actualización",
+    "requirements": "Documentos de soporte según el cambio solicitado",
+    "steps": [
+      "**Paso 1:** Enviar email a rrhh@empresa.com con asunto 'Actualización de Datos Personales'",
+      "**Paso 2:** Indicar claramente qué dato deseas actualizar: dirección, teléfono, estado civil, beneficiarios, etc.",
+      "**Paso 3:** Adjuntar documentos de soporte: certificado de matrimonio, comprobante de domicilio, acta de nacimiento de hijo, etc.",
+      "**Paso 4:** RRHH revisará la solicitud y validará los documentos",
+      "**Paso 5:** Si todo está correcto, actualizarán el sistema en 2-3 días hábiles",
+      "**Paso 6:** Recibirás confirmación por email de que los cambios fueron aplicados",
+      "**Paso 7:** Verificar los cambios ingresando a portal.empresa.com → Mi Perfil"
+    ],
+    "important_notes": [
+      "Cambios en datos bancarios requieren comprobante de cuenta",
+      "Actualizaciones de beneficiarios del seguro deben hacerse con documentos de identidad",
+      "Es responsabilidad del empleado mantener sus datos actualizados",
+      "Cambios de emergencia (contacto de emergencia) se procesan el mismo día"
+    ]
+  },
+  "certificados_laborales": {
+    "name": "Solicitud de Certificados Laborales",
+    "description": "Proceso para obtener certificados de trabajo, salario, etc.",
+    "estimated_time": "1-2 días hábiles",
+    "requirements": "Ninguno, derecho de todos los empleados",
+    "steps": [
+      "**Paso 1:** Acceder al portal de RRHH en https://portal.empresa.com",
+      "**Paso 2:** Ir a la sección 'Certificados Laborales'",
+      "**Paso 3:** Seleccionar el tipo de certificado: trabajo, salario, tiempo de servicio, etc.",
+      "**Paso 4:** Indicar para qué entidad o propósito se requiere (opcional pero recomendado)",
+      "**Paso 5:** Hacer clic en 'Generar Certificado'",
+      "**Paso 6:** El sistema generará un PDF con firma digital del Director de RRHH",
+      "**Paso 7:** Descargar e imprimir el certificado",
+      "**Paso 8:** Si requieres sello húmedo físico, solicitar en oficinas de RRHH (Edificio Central, Piso 3)"
+    ],
+    "important_notes": [
+      "Los certificados digitales tienen validez legal",
+      "Puedes generar certificados ilimitados sin costo",
+      "Para certificados especiales (carta laboral para visa, etc.), contactar directamente a RRHH",
+      "Tiempo de emisión de certificados con sello físico: 24 horas"
+    ]
+  }
+}
